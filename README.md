@@ -62,13 +62,6 @@ graph TD
 
 ---
 
-## 🌐 Live Preview
-
-🔐 **Auth Required (Testing Phase)**  
-- **URL**: [https://marg-vedha.vercel.app/dashboard](https://marg-vedha.vercel.app/dashboard)  
-- **Email**: margvedha01@gmail.com  
-- **Password**: DR@123
-
 > Frontend Prototype is currently deployed for demonstration. Full backend with AI integration is under development.
 
 ---
